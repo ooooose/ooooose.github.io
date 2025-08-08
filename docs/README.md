@@ -155,8 +155,7 @@ AIプロンプトを共有できるプラットフォームの立ち上げに参
 * Python（FastAPI）を用いたバックエンド開発に従事。
 
 ---
-**技術関連記事**
+##### 技術関連記事
 * [Qiita](https://qiita.com/yuuki_0524)
 * [Zenn](https://zenn.dev/ooooose)
 * [note](https://note.com/ooooonse0524)
----
